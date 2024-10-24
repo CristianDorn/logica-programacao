@@ -1,0 +1,9 @@
+chmod +x calculadora.sh
+
+chmod u+w calculadora.sh
+chmod u-r calculadora.sh
+
+chmod go+r calculadora.sh
+chmod go-w calculadora.sh
+
+./calculadora.sh
